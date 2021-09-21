@@ -18,7 +18,9 @@ width:100%;
 animation:zoom-out 3s linear infinite;
 object-fit:cover;
 left:100%;
-top:50%
+top:50%;
+height:100%;
+	
 }
 @keyframes zoom-out{
 	0%{

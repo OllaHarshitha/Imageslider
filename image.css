@@ -136,7 +136,7 @@ animation-delay:6s;
   width: 100%;
 }
 
-@media (min-width: 600px) {
+@media (max-width: 600px) {
   .column {
     width: 50%;
   }

@@ -132,3 +132,12 @@ animation-delay:3s;
 .text-box3{
 animation-delay:6s;
 }
+.column {
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  .column {
+    width: 50%;
+  }
+}

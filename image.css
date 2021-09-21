@@ -16,6 +16,8 @@ img{
 width:100%;
 animation:zoom-out 3s linear infinite;
 
+left:100%;
+top:50%
 }
 @keyframes zoom-out{
 	0%{

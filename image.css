@@ -33,6 +33,11 @@ object-fit:cover;
   color:black;
   animation:textup 12s linear infinite;
   transform:translateY(100px);
+  display:flex;
+  height:100%;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
 }
 .text-box h1{
  margin-bottom:40px;

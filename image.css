@@ -20,7 +20,7 @@ left:100%;
 top:50%;
 height:100%;
 position:relative;
-transform:translate(-50%,-50%);
+
 }
 @keyframes zoom-out{
 	0%{
